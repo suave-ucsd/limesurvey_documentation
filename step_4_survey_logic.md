@@ -15,7 +15,7 @@ If you want to apply survey logic to your survey, follow these steps:
 1. Navigate to the question where the survey logic will be applied to
 2. Under "Tools", go to "Condition designer"
 3. Here, you are able to reference previous questions or participant attribtue under "Questions", set an operator under "Operator" (such as equal to), and what the criteria is for the current question to display to the survey participant under "Answer"
-  - for example, show question_10 if question_2 equals 2.
+  - For example, show question_10 if question_2 equals 2.
 4. Click "Save" at the end at the top right.
 
 You must do this process for every question you want survey logic on.

@@ -14,7 +14,7 @@ nav_order: 8
 
 
 ## Single Choice Questions
-** Use this question type for questions that should only have one answer **
+**Use this question type for questions that should only have one answer**
 
 ### 5-point choice
 Use this question type for when you have a question, where the responses are 1 through 5. Using this question type is quite uncommon. A perk to this question type is that there is a “no answer” button, if needed.
@@ -35,7 +35,7 @@ This is the most popular question type for single choice questions. It allows fo
 Use this question type when some sort of rationale should be added to a selected answer choice. This question type allows users to write a comment that is attached to their answer choice. 
 
 ## Arrays
-** Use this question type for when you want to ask the same question(s) for a series of questions such as rate x, y, and z on a scale from 1 to 7, where 1 = unsatisfied and 7 = extremely satisfied. **
+**Use this question type for when you want to ask the same question(s) for a series of questions such as rate x, y, and z on a scale from 1 to 7, where 1 = unsatisfied and 7 = extremely satisfied.**
 ### Array
 Use this question type when you have multiple questions that can be answered on the same scale. You can specify the scale for this question type, unlike other array question types. The most common is a scale from 1 to 7.
 
@@ -59,44 +59,36 @@ Use this question type when you have multiple questions that can be answered on 
 
 ### Array by column
 This question type is uncommon as it is the same as the Array question but transposed, meaning rows are columns and columns are rows. Typically, avoid it unless you prefer its style.
-********************************************************************************************************************************************************************************************
-********************************************************************************************************************************************************************************************
 
 ### Array dual scale
 Use this question type when you have multiple questions that requires two separate answers. For example, for x, y, and z label its price and weight, from very cheap/light to very expensive/heavy.
 
 ## Multiple Choice Questions
-** Use this question type for when there are one or more answers for a question. This question type also allows for an exclusive “None of the Above” option.**
+**Use this question type for when there are one or more answers for a question. This question type also allows for an exclusive “None of the Above” option.**
 
 ### Bootstrap buttons
 This question type is typically used for stylistic reasons, where each answer choice is a big green button that you can select. 
 
 ### Image select multiple choice
-Use this question type when each possible answer choice has a picture associated with it. 
+Use this question type when each possible answer choice has a picture associated with it. To add pictures, get the picture URL and, in the space where you fill in the question text, click on the pencil next to it. Then, click on the picture image and paste the URL. Do this for every image you want to add.
 
 ### Multiple choice  ** popular **
 Use this question type as the default multiple choice question type. This question type allows for exclusive “None of the above” option (if chosen, it is the only response that can be chosen) and “Other” option with specifciation of what other references.
 
 ### Multiple choice with comments
 Use this question type when some sort of rationale should be added to a selected answer choice(s). This question type allows users to write a comment that is attached to each of their answer choices. 
-********************************************************************************************************************************************************************************************
-********************************************************************************************************************************************************************************************
 
 ## Text Questions
 ** Use this question type for when the response to a question should be written. This also include questions that should be answered by pinning a point on a map. **
 
 ### Browser Detection?
 This question type is quite rare as it detects the browser the user is using to fill out the survey. Use it if you want to know this information.
-********************************************************************************************************************************************************************************************
-********************************************************************************************************************************************************************************************
 
 ### Huge Free Text
 Use this question type if the question requires a very long text responses (typically multiples paragraphs or more).
 
 ### Input on demand
-This question type is quite rare as it detects the device the user is using to fill out the survey. Use it if you want to know this information.
-********************************************************************************************************************************************************************************************
-********************************************************************************************************************************************************************************************
+This question type is quite rare as it allows users to answer questions on by one. They need to click a button to access the next text box if they want to answer more.
 
 ### Long free text  ** popular **
 Use this question type if the question requires a long text responses (typically a paragraph or more).
@@ -138,8 +130,8 @@ Use this question type when you want a response to only be numbers. It is partic
 Use this question type when you want to rank a list of items.
 
 ### Ranking advanced
-********************************************************************************************************************************************************************************************
-********************************************************************************************************************************************************************************************
+Use this question type when you want to rank a list of images. To add pictures, get the picture URL and, in the space where you fill in the question text, click on the pencil next to it. Then, click on the picture image and paste the URL. Do this for every image you want to add.
+
 ### Text display ** popular **
 This question type is specifically used to display text. If you have something important to convey to those filling out the survey, use this question type.
 

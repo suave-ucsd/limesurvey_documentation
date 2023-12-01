@@ -8,7 +8,7 @@ nav_order: 6
 
 When sending out your survey to get responses, you have two options: sending out personalized links based on a participants table or a registration form. If you have a list of participants that should fill out the survey (such as a class roster), follow **Option A**; if you do not have a list of participants that should fill out the survey and want anybody willing to fill out the survey to do so, follow **Option B**.
 
-#### Option A - Defined Participants Table
+### Option A - Defined Participants Table
 
 1. Get your participants table. The table needs the following three columns at the minimum: first name, last name, and email. 
 2. Export this file as a csv
@@ -21,7 +21,7 @@ When sending out your survey to get responses, you have two options: sending out
 9. Once you are ready, go back to the “Participants” tab. Select all participants you want to send the survey to and click on “With Selected”. Click “Send Invitation”
 10. Some people may not receive the email or may not acknowledge the email and fill out the survey. If this is the case, send a reminder email to individuals that do not fill out the survey at your discretion.
 
-#### Option B - Creating a Registration Form
+### Option B - Creating a Registration Form
 
 Limesurvey includes a standard signup form, such as [https://limesurvey.sdsc.edu/limesurvey/index.php/638892](https://limesurvey.sdsc.edu/limesurvey/index.php/638892), in our example. We provide an option for the user to create a custom participant signup form, with a logo, title and prompts specific to the survey.
 

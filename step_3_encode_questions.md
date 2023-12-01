@@ -228,7 +228,7 @@ limesurvey-flask@fusion-r2r.iam.gserviceaccount.com
 
     - The #img special column name is responsible for taking survey questions that require you to upload an image, and display them as tiles for each individual response in SuAVE as shown here:
 
-    ![Image of SuAVE Gallery UI displaying images from LimeSurvey field](/assets/Untitled 26.png)
+    ![Image of SuAVE Gallery UI displaying images from LimeSurvey field](/assets/Untitled%2026.png)
 
     - Starting with BasedOn, we see that we're pulling from the survey question that has the ID of "ProImage"
     - Next, the value for Mapper shows that we are formatting SuAVE to just insert the response data from our question with no extra characters.

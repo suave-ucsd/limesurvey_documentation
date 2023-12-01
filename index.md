@@ -9,7 +9,7 @@ nav_order: 1
 
 **SuAVE (Survey Analysis via Visual Exploration) is a data visualization software that can read in Limesurvey data and visualize it.**
 
-**The following link is for the instructions on how to use Limesurvey-SuAVE.**
+The following link is for the instructions on how to use Limesurvey-SuAVE.
 
 <div class="button-container" style="display: flex; align-items: center;margin-top: 20px;">
    <div class="arrow-container">

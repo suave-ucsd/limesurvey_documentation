@@ -25,7 +25,7 @@ When sending out your survey to get responses, you have two options: sending out
 
 Limesurvey includes a standard signup form, such as [https://limesurvey.sdsc.edu/limesurvey/index.php/638892](https://limesurvey.sdsc.edu/limesurvey/index.php/638892), in our example. We provide an option for the user to create a custom participant signup form, with a logo, title and prompts specific to the survey.
 
-To point to this custom signup form, use the following Mapper expression:
+To point to this custom signup form, use the following Mapper expression (replace 638892 with your survey's Survey-ID):
 
 ```
 Mapper: "<a href='https://limesurvey.sdsc.edu/signup/638892/' style='color:red;background-color: cyan;' target='_blank'>CLICK TO UPDATE YOUR ENTRY</a>".

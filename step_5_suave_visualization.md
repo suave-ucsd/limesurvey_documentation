@@ -15,7 +15,7 @@ Navigate to [https://suave-net.sdsc.edu](https://suave-net.sdsc.edu). Login if y
 - Login to your SuAVE Account
 - Ensure that you're in the "Gallery Section" on the SuAVE Homepage. This can be accessed from the left navigation bar of the website.
 
-![Image of SuAVE Gallery page](assets/Untitled 27.png)
+![Image of SuAVE Gallery page](assets/Untitled%2027.png)
 
 - Click the "New Survey" button on the top left of the gallery menu.
 
@@ -23,7 +23,7 @@ Navigate to [https://suave-net.sdsc.edu](https://suave-net.sdsc.edu). Login if y
 
 - You should be presented with a menu that looks like this:
 
-![Image of defaulted "Upload new survey" menu](assets/Untitled 28.png)
+![Image of defaulted "Upload new survey" menu](assets/Untitled%2028.png)
 
 - In the following steps we're going to configure the settings to connect it to our LimeSurvey survey and Google Spreadsheet.
 
@@ -57,13 +57,13 @@ Navigate to [https://suave-net.sdsc.edu](https://suave-net.sdsc.edu). Login if y
 
 - Your survey configuration should look something like this:
 
-![Image of formatted "Upload new survey" menu](assets/Untitled 29.png)
+![Image of formatted "Upload new survey" menu](assets/Untitled%2029.png)
 
 - Press "submit"
 
 **Note**: Nothing will appear in the survey until there are responses that are submitted to the survey. If there are no responses you will get the error below, but do not worry. This does not mean that the survey creation failed.
 
-![Image of common error message if survey was just initialized](assets/Untitled 30.png)
+![Image of common error message if survey was just initialized](assets/Untitled%2030.png)
   - If you want participants of the questionnaire to see the SuAVE visualization, navigate back to Limesurvey; go to "Text Elements" and link the SuAVE visualization URL in the "End message".
 
 

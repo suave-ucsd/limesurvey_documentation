@@ -43,7 +43,7 @@ Next, we're going add an end message and include an important piece of code that
 
 Select the menu item titled "Text elements" in the sidebar of your survey homepage.
 
-![Image of survey summary with highlighted "Text elements" navigation menu item](/limesurvey_suave/assets/Untitled 3.png)
+![Image of survey summary with highlighted "Text elements" navigation menu item](assets/Untitled 3.png)
 
 You will now see a page that looks very similar to the starting page of our survey creation.
 

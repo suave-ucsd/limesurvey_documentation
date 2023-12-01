@@ -81,7 +81,7 @@ Use this question type when some sort of rationale should be added to a selected
 ## Text Questions
 ** Use this question type for when the response to a question should be written. This also include questions that should be answered by pinning a point on a map. **
 
-### Browser Detection?
+### Browser Detection
 This question type is quite rare as it detects the browser the user is using to fill out the survey. Use it if you want to know this information.
 
 ### Huge Free Text

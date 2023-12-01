@@ -52,7 +52,7 @@ Survey questions are very versatile and are able to handle many data formats, in
 
 - In the toolbar at the top of the page there will be a green button titled "Activate Survey" which will take you through the activation steps.
 
-  ![Image of focused "Activate this survey" and other top menu items](/assets/Untitled 11.png)
+  ![Image of focused "Activate this survey" and other top menu items](/assets/Untitled%2011.png)
 
 You can use the "Preview survey" button to get a preview of what the survey respondents will see before activating your survey.
 

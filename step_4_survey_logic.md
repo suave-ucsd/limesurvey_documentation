@@ -4,8 +4,6 @@ parent: Full Limesurvey-SuAVE Guide
 nav_order: 4
 ---
 
-## {{page.title}}
-
 ## Part 4 (Optional) - Survey Logic
 
 Survey Logic is a high level concept that manipulates the survey in a way that certain questions are only available based on answers to previous questions. If you are not familiar with this, then this may not be the best idea, unless it is very basic.

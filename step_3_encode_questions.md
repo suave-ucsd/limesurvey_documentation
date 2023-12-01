@@ -26,7 +26,7 @@ nav_order: 3
 
 - You will be presented with the following menu:
 
-![Image of defaulted Google spreadsheet share menu](/assets/Untitled 12.png)
+![Image of defaulted Google spreadsheet share menu](/assets/Untitled%2012.png)
 
 - In the box that says "Add people and groups" you will enter the following email:
 
@@ -37,16 +37,16 @@ limesurvey-flask@fusion-r2r.iam.gserviceaccount.com
 - You will be prompted with this menu. Ensure that the share permission is set to "Editor."
 - Press Send.
 
-![Image of Google spreadsheet with configured sharing to limesurvey integration account](/assets/Untitled 13.png)
+![Image of Google spreadsheet with configured sharing to limesurvey integration account](/assets/Untitled%2013.png)
 
 - Next go back to the share menu and under the "Get Link" menu, click "Change to anyone with the link"
   - This will ensure that SuAVE has permissions to read the spreadsheet for the collected data.
 
-![Image of Google spreadsheet share menu with updated sharing options](/assets/Untitled 14.png)
+![Image of Google spreadsheet share menu with updated sharing options](/assets/Untitled%2014.png)
 
 - Your share menu should now look like this. Ensure that the permission for "Anyone with the link" is set to "Viewer"
 
-![Image of expanded "Get link" menu with proper sharing settings](/assets/Untitled 15.png)
+![Image of expanded "Get link" menu with proper sharing settings](/assets/Untitled%2015.png)
 
 - Next, click "Copy link" and save it somewhere. **We will need it in a later step.**
 
@@ -61,7 +61,7 @@ limesurvey-flask@fusion-r2r.iam.gserviceaccount.com
 
   - To rename a spreadsheet tab, right click on it or click on the triangle and select "Rename" from the menu.
 
-  ![Image of blank Google Spreadsheet with options dropdown for first spreadsheet tab](/assets/Untitled 16.png)
+  ![Image of blank Google Spreadsheet with options dropdown for first spreadsheet tab](/assets/Untitled%2016.png)
 
   - Rename the first spreadsheet tab to the survey ID collected in the previous section. Make sure to rename the title of the spreadsheet to be the survey ID as well.
 
@@ -96,7 +96,7 @@ limesurvey-flask@fusion-r2r.iam.gserviceaccount.com
 
       - In SuAVE, the search menu will sort the labels of the "Region" question responses by quantity.
 
-      ![Image of active SuAVE #sortquan UI menu](/assets/Untitled 17.png)
+      ![Image of active SuAVE #sortquan UI menu](/assets/Untitled%2017.png)
 
   ### **ExpressionType**
 
@@ -118,7 +118,7 @@ limesurvey-flask@fusion-r2r.iam.gserviceaccount.com
 
         - If we simply want to copy the exact response from our survey question (with question code "favorite_sport") over to SuAVE, we would use the "copy" expression type with a configuration that looks like this:
 
-          ![Image of simple copy mappings spreadsheet example](/assets/Untitled 18.png)
+          ![Image of simple copy mappings spreadsheet example](/assets/Untitled%2018.png)
 
     - multi_from_dict:
 
@@ -129,11 +129,11 @@ limesurvey-flask@fusion-r2r.iam.gserviceaccount.com
         - Under SuAVEFieldName, you will want to add the "#multi" qualifier after your desired feature title.
         - If you go to your question in LimeSurvey and scroll down you will see a tab titled "Subquestions." Clicking that will display the subquestion codes that you can make a dictionary of.
 
-        ![Image of multiple choice question setup in LimeSurvey](/assets/Untitled 19.png)
+        ![Image of multiple choice question setup in LimeSurvey](/assets/Untitled%2019.png)
 
         - Scroll down when you get to your question in LimeSurvey
 
-        ![Image of multiple choice subquestion setup in LimeSurvey](/assets/Untitled 20.png)
+        ![Image of multiple choice subquestion setup in LimeSurvey](/assets/Untitled%2020.png)
 
         - Create a list of the subquestions that you would like to display in SuAVE like below.
           - Each item should be in the format of "QuestionCode[SubquestionTitle]"
@@ -158,7 +158,7 @@ limesurvey-flask@fusion-r2r.iam.gserviceaccount.com
 
         - This is how our question is represented in SuAVE, allowing us to sort the responses by the tags that were derived from our subquestions.
 
-          ![Image of SuAVE filter UI for a multiple choice question](/assets/Untitled 21.png)
+          ![Image of SuAVE filter UI for a multiple choice question](/assets/Untitled%2021.png)
 
     - dict:
 
@@ -182,9 +182,9 @@ limesurvey-flask@fusion-r2r.iam.gserviceaccount.com
       - If a question uses the "Short Free Text" question type that asks respondents to select a location on a map, then these ExpressionTypes will be required to display responses on a map in SuAVE
       - With a question that has the QuestionCode of "Latlon" we will add two rows into our "mappings" spreadsheet and enter the configuration as follows:
 
-      ![Image of what a latitude and longitude question looks like in LimeSurvey questions list](/assets/Untitled 22.png)
+      ![Image of what a latitude and longitude question looks like in LimeSurvey questions list](/assets/Untitled%2022.png)
 
-      ![Image of example latitude and longitude mappings in the spreadsheet](/assets/Untitled 23.png)
+      ![Image of example latitude and longitude mappings in the spreadsheet](/assets/Untitled%2023.png)
 
     - template
 
@@ -198,9 +198,9 @@ limesurvey-flask@fusion-r2r.iam.gserviceaccount.com
 
         - Here a student submits their first and last name in the separate respective questions and the mapper formats the responses to show their last name first followed by a comma and space and then their first name.
 
-          ![Image of spreadsheet setup for first and last name combination template example](/assets/Untitled 24.png)
+          ![Image of spreadsheet setup for first and last name combination template example](/assets/Untitled%2024.png)
 
-          ![Image of resulting SuAVE field of combined first and last name LimeSurvey response entries](/assets\Untitled 25.png)
+          ![Image of resulting SuAVE field of combined first and last name LimeSurvey response entries](/assets\Untitled%2025.png)
 
   ### **BasedOn**
 

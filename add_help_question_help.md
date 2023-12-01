@@ -10,7 +10,7 @@ nav_order: 8
 
 **Disclaimer**: Every question has aspects of it that you can edit such as making the question mandatory, adding an “Other” option, answer validation (such as at least 100 characters). To edit these, while creating the question, look at the right tab (as shown). Look through to make the changes you want.
 
-![Image]()
+![Image](assets/Screenshot%202023-12-01%20at%201.29.27%20PM.png)
 
 
 ## Single Choice Questions

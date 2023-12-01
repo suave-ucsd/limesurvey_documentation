@@ -28,7 +28,7 @@ Use this question type when each possible answer choice has a picture associated
 ### List (dropdown)
 Use this question type when there are many possible answer choices, where users are to only select one. For example, this is commonly used when selecting the state/country the user is from (for appearance purposes as List (radio) would take up a lot of space on the survey whereas List (dropdown) hides the answer choices you don’t choice in the dropdown box).  
 
-### List (radio) ** popular **
+### List (radio)   ** popular **
 This is the most popular question type for single choice questions. It allows for an “other” option (if chosen), where you have the option to force users to specify what “other” indicates. You can also add a comment to the “other” answer.
 
 ### List with comment
@@ -39,7 +39,7 @@ Use this question type when some sort of rationale should be added to a selected
 ### Array
 Use this question type when you have multiple questions that can be answered on the same scale. You can specify the scale for this question type, unlike other array question types. The most common is a scale from 1 to 7.
 
-### Array (5 point choice)  ** popular **
+### Array (5 point choice)   ** popular **
 Use this question type when you have multiple questions that can be answered on the same scale, where the scale spans from 1 to 5.
 
 ### Array (10 point choice)
@@ -72,7 +72,7 @@ This question type is typically used for stylistic reasons, where each answer ch
 ### Image select multiple choice
 Use this question type when each possible answer choice has a picture associated with it. To add pictures, get the picture URL and, in the space where you fill in the question text, click on the pencil next to it. Then, click on the picture image and paste the URL. Do this for every image you want to add.
 
-### Multiple choice  ** popular **
+### Multiple choice   ** popular **
 Use this question type as the default multiple choice question type. This question type allows for exclusive “None of the above” option (if chosen, it is the only response that can be chosen) and “Other” option with specifciation of what other references.
 
 ### Multiple choice with comments
@@ -90,16 +90,16 @@ Use this question type if the question requires a very long text responses (typi
 ### Input on demand
 This question type is quite rare as it allows users to answer questions on by one. They need to click a button to access the next text box if they want to answer more.
 
-### Long free text  ** popular **
+### Long free text   ** popular **
 Use this question type if the question requires a long text responses (typically a paragraph or more).
 
-### Multiple short text  ** popular **
+### Multiple short text   ** popular **
 Use this question type if you want to ask multiple questions that require short responses (typically a paragraph or less) related to a single topic.
 
-### Short free text  ** popular **
+### Short free text   ** popular **
 Use this question type if you want to ask a question that require a short response (typically a paragraph or less).
 
-### Short free text - Map  ** popular **
+### Short free text - Map   ** popular **
 Use this question type as well if you want users to pinpoint something important on a map. The map can be configured to your needs such as default point, map view type, scope of map (very zoomed in versus zoomed out), etcetera. Please explore all options to edit the map to what you would like.
 
 ## Mask Questions
@@ -108,10 +108,10 @@ Use this question type as well if you want users to pinpoint something important
 ### Date/Time
 Use this question type if you want user answers to a questions to be in a date format.
 
-### Equation  ** popular **
+### Equation   ** popular **
 Use this question type if previous answers in the survey can be used to fill out a specified equation (by the survey creator). This value resulting from the equation can be stored in the Google Sheets of answers.
 
-### File Upload  ** popular **
+### File Upload   ** popular **
 Use this question type if you want people to upload particular files. This can be projects pdfs, images (**common for SuAVE visualizations**), or other files. You also have the option to specify acceptable file types.
 
 ### Gender
@@ -123,7 +123,7 @@ Use this question type if you want the survey to be able to be filled out in mul
 ### Multiple numerical input
 Use this question type when you want multiple responses to only be numbers. It is particularly useful when uploading data. Make sure, however, to specify what units the result should be measured in if it could be unclear. Additionally, only use this option if the numerical responses somehow correlate with one another; if they do not, it could confuse the user. This question type is commonly used in tandem with “Equations”.
 
-### Numerical input  ** popular **
+### Numerical input   ** popular **
 Use this question type when you want a response to only be numbers. It is particularly useful when uploading data. Make sure, however, to specify what units the result should be measured in if it could be unclear. This question type is commonly used in tandem with “Equations”.
 
 ### Ranking
@@ -132,7 +132,7 @@ Use this question type when you want to rank a list of items.
 ### Ranking advanced
 Use this question type when you want to rank a list of images. To add pictures, get the picture URL and, in the space where you fill in the question text, click on the pencil next to it. Then, click on the picture image and paste the URL. Do this for every image you want to add.
 
-### Text display ** popular **
+### Text display   ** popular **
 This question type is specifically used to display text. If you have something important to convey to those filling out the survey, use this question type.
 
 ### Yes/No

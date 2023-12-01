@@ -79,7 +79,7 @@ Use this question type as the default multiple choice question type. This questi
 Use this question type when some sort of rationale should be added to a selected answer choice(s). This question type allows users to write a comment that is attached to each of their answer choices. 
 
 ## Text Questions
-** Use this question type for when the response to a question should be written. This also include questions that should be answered by pinning a point on a map. **
+**Use this question type for when the response to a question should be written. This also include questions that should be answered by pinning a point on a map.**
 
 ### Browser Detection
 This question type is quite rare as it detects the browser the user is using to fill out the survey. Use it if you want to know this information.
@@ -103,7 +103,7 @@ Use this question type if you want to ask a question that require a short respon
 Use this question type as well if you want users to pinpoint something important on a map. The map can be configured to your needs such as default point, map view type, scope of map (very zoomed in versus zoomed out), etcetera. Please explore all options to edit the map to what you would like.
 
 ## Mask Questions
-** Use this question type for when the above choices do not apply to your scenario. This question type includes equations, language changes, date selection, file upload, etcetera. **
+**Use this question type for when the above choices do not apply to your scenario. This question type includes equations, language changes, date selection, file upload, etcetera.**
 
 ### Date/Time
 Use this question type if you want user answers to a questions to be in a date format.

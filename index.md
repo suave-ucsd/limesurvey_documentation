@@ -14,7 +14,7 @@ The following link is for the instructions on how to use Limesurvey-SuAVE.
 <div class="button-container" style="display: flex; align-items: center;margin-top: 20px;">
    <div class="arrow-container">
       <div class="button green">
-         <a href="https://suave-ucsd.github.io/limesurvey_documentation/limesurvey_guide.html">Limesurvey-SuAVE Guide</a>
+         <a href="https://suave-ucsd.github.io/limesurvey_documentation/step-by-step_layout.html">Limesurvey-SuAVE Guide</a>
       </div>
    </div>
 </div>

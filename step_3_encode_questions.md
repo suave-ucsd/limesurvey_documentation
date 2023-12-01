@@ -6,6 +6,7 @@ nav_order: 3
 
 ## {{page.title}}
 
+## Link to exmaple mappings for each question type: [here]()
 
 ### What you'll need:
 
@@ -245,11 +246,4 @@ limesurvey-flask@fusion-r2r.iam.gserviceaccount.com
 - By now you should have **a link to a google spreadsheet,** which is formatted in the method described above.
 - Checklist
   - [ ] Google Spreadsheet Link
-********************************************************************************************************************************************************************************************
 
-## Checkpoint
-
-- By now you should have the **survey id** and a list of the **question codes** that pertain to the responses you would like to display in SuAVE
-- Checklist
-  - [ ] Survey ID
-  - [ ] Question Codes

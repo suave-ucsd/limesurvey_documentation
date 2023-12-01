@@ -14,7 +14,7 @@ nav_order: 1
 <div class="button-container" style="display: flex; align-items: center;margin-top: 20px;">
    <div class="arrow-container">
       <div class="button green">
-         <a href="https://limesurvey-ucsd.github.io/limesurvey_documentation/limesurvey_guide.html">Limesurvey-SuAVE Guide</a>
+         <a href="https://suave-ucsd.github.io/limesurvey_documentation/limesurvey_guide.html">Limesurvey-SuAVE Guide</a>
       </div>
    </div>
 </div>

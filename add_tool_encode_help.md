@@ -12,6 +12,6 @@ nav_order: 9
 
 Go [here](https://docs.google.com/spreadsheets/d/1V9Iqxa8krpqeifqdwl55vhqOt-ucSaqk0pExdB2CJzI/edit?usp=sharing)
 
-### Tool to help with mapping for Single and Multiple Choice Questions
+### Tool to Help with Mapping for Single and Multiple Choice Questions
 
 Go [here](https://suave-ucsd.github.io/SuAVE-Documentation/limesurvey_suave/multiple_response_formatting_tool.html)

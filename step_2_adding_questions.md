@@ -16,7 +16,7 @@ Note that there must be at least one question group, since each question has to 
 
 - This is what the question group page looks like:
 
-![Image of Question Group page](/assets/Untitled 9.png)
+![Image of Question Group page](/assets/Untitled%209.png)
 
 - Your question group does not require any of the fields to be filled in, however we recommend you at least add a title, which will help identify the question group and will show up on the top of page when the survey questions are presented.
 - You can read more about question groups in the official [LimeSurvey Documentation here.](https://manual.limesurvey.org/Question_groups_-_introduction)
@@ -28,7 +28,7 @@ Note that there must be at least one question group, since each question has to 
 
 - Next, we will setup the survey questions in order to collect the data that we'll present in SuAVE.
 
-![Image of Create Question page](/assets/Untitled 10.png)
+![Image of Create Question page](/assets/Untitled%2010.png)
 
 Survey questions are very versatile and are able to handle many data formats, including but not limited to: multiple choice selections, images, and free form text.
 ### For a list of example questions, click [here](https://suave-ucsd.github.io/SuAVE-Documentation/Example_Mappings.html)

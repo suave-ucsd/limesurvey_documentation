@@ -29,7 +29,7 @@ Press the "Save" button in the upper right hand corner.
 
 ### Write Down Your Survey ID
 
-![Zoomed in image of survey title and ID](/assets/Untitled 2.png)
+![Zoomed in image of survey title and ID](assets/Untitled 2.png)
 
 After saving, you should be redirected to your survey homepage. Here, you can revise the settings of the survey and make changes to it's functionality.
 

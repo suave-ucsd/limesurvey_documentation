@@ -23,7 +23,7 @@ Use this question type for when you have a question, where the responses are 1 t
 This question type is typically used for stylistic reasons, where each answer choice is a big green button that you can select.  
 
 ### Image select list (Radio) 
-Use this question type when each possible answer choice has a picture associated with it. 
+Use this question type when each possible answer choice has a picture associated with it. To add pictures, get the picture URL and, in the space where you fill in the question text, click on the pencil next to it. Then, click on the picture image and paste the URL. Do this for every image you want to add.
 
 ### List (dropdown)
 Use this question type when there are many possible answer choices, where users are to only select one. For example, this is commonly used when selecting the state/country the user is from (for appearance purposes as List (radio) would take up a lot of space on the survey whereas List (dropdown) hides the answer choices you don’t choice in the dropdown box).  
@@ -33,8 +33,6 @@ This is the most popular question type for single choice questions. It allows fo
 
 ### List with comment
 Use this question type when some sort of rationale should be added to a selected answer choice. This question type allows users to write a comment that is attached to their answer choice. 
-********************************************************************************************************************************************************************************************
-********************************************************************************************************************************************************************************************
 
 ## Arrays
 ** Use this question type for when you want to ask the same question(s) for a series of questions such as rate x, y, and z on a scale from 1 to 7, where 1 = unsatisfied and 7 = extremely satisfied. **

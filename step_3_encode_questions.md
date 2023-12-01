@@ -8,7 +8,7 @@ nav_order: 3
 
 ### **In this section, you will create the tool in Google Docs that helps transform the Limesurvey data into a tidy dataset in Google Sheets.**
 
-## Link to example mappings for each question type: [here]()
+### Link to example mappings for each question type: [here]()
 
 ### What you'll need:
 

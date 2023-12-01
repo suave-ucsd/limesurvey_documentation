@@ -39,3 +39,12 @@ Go [here](https://suave-ucsd.github.io/limesurvey_documentation/step_6_sending_s
 Go [here](https://suave-ucsd.github.io/limesurvey_documentation/step_7_accessing_results.html)
 
 
+--------
+
+## Additional Tool - Question Choice Help
+
+Go [here](https://suave-ucsd.github.io/limesurvey_documentation/add_help_question_help.html)
+
+## Additional Tool - Question Encoding in Google Sheets Help
+
+Go [here](https://suave-ucsd.github.io/limesurvey_documentation/add_tool_encode_help.html)

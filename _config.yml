@@ -1,3 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
+destination: ./docs/_site
 url: https://limesurvey-ucsd.github.io
 image_base_url: https://limesurvey-ucsd.github.io/Limesurvey_Guide/

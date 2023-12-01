@@ -24,10 +24,16 @@ nav_order: 5
 7. Now, set up the SuAVE visualization for the questionnaire by following the steps linked [here](https://suave-ucsd.github.io/SuAVE-Documentation/limesurvey_suave/suave_setup.html).
   - If you want participants of the questionnaire to see the SuAVE visualization, navigate back to Limesurvey; go to "Text Elements" and link the SuAVE visualization URL in the "End message".
 8. ### Checkpoint
-  - By now you should have **a link to a google spreadsheet,** **Limesurvey questionnaire,** and **SuAVE visualization**.
-  - Checklist
-      - [ ] Google Spreadsheet Link
-      - [ ] Limesurvey Questionnaire
-      - [ ] SuAVE Visualization
+  - By now you should have **a link to a Google Spreadsheet,** **Limesurvey questionnaire,** and **SuAVE visualization.**
+  <details>
+    <summary>Checklist</summary>
+    <ul>
+      <li>[ ] Google Spreadsheet Link</li>
+      <li>[ ] Limesurvey Questionnaire</li>
+      <li>[ ] SuAVE Visualization</li>
+    </ul>
+  </details>
+
+
 9. Test that everything is in sync. Fill out the questionnaire a couple more times. These responses should now populate in the Google Sheet dataset and then the SuAVE visualization. If the responses do not show up in SuAVE and the Google Sheet, then it is a mapping issue. If the response do not populate in the SuAVE visualization only, then it is an issue between the Google Sheet and SuAVE. Fix the issue and then you are ready to publish the questionnaire.
 

@@ -24,11 +24,11 @@ Note that there must be at least one question group, since each question has to 
 - Next, add a question by clicking "Add Question" in the left navigation bar, or by clicking "Save and add question" in the top right
   - To view questions and question groups in the left navigation bar, you will have to select the "Structure" option at the top of the navigation bar.
 
-![Image of Question Group page with highlighted "Add question" and "Save and add question" boxes](/assets/new_question.png)
+![Image of Question Group page with highlighted "Add question" and "Save and add question" boxes](assets/new_question.png)
 
 - Next, we will setup the survey questions in order to collect the data that we'll present in SuAVE.
 
-![Image of Create Question page](/assets/Untitled%2010.png)
+![Image of Create Question page](assets/Untitled%2010.png)
 
 Survey questions are very versatile and are able to handle many data formats, including but not limited to: multiple choice selections, images, and free form text.
 ### For a list of example questions, click [here](https://suave-ucsd.github.io/limesurvey_documentation/add_tool_question_help.html)
@@ -52,7 +52,7 @@ Survey questions are very versatile and are able to handle many data formats, in
 
 - In the toolbar at the top of the page there will be a green button titled "Activate Survey" which will take you through the activation steps.
 
-  ![Image of focused "Activate this survey" and other top menu items](/assets/Untitled%2011.png)
+  ![Image of focused "Activate this survey" and other top menu items](assets/Untitled%2011.png)
 
 You can use the "Preview survey" button to get a preview of what the survey respondents will see before activating your survey.
 

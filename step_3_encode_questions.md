@@ -8,8 +8,8 @@ nav_order: 3
 
 ### ***Important Tools to Help with this Section***
 
-**Link to example mappings for each question type:** [here](https://docs.google.com/spreadsheets/d/1V9Iqxa8krpqeifqdwl55vhqOt-ucSaqk0pExdB2CJzI/edit#gid=0)
 
+**Link to example mappings for each question type:** [here](https://docs.google.com/spreadsheets/d/1V9Iqxa8krpqeifqdwl55vhqOt-ucSaqk0pExdB2CJzI/edit#gid=0)
 **Link to help with mapping single and multiple choice questions:** [here](https://suave-ucsd.github.io/SuAVE-Documentation/limesurvey_suave/multiple_response_formatting_tool.html)
 
 ------

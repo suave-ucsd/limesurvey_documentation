@@ -6,6 +6,8 @@ nav_order: 1
 
 # Full Guide to Limesurvey
 
+**Follow the steps below to learn how to create a Limesurvey survey (along with editing some of its features), send it out to your target audience, and make a SuAVE visualization to represent the survey data.**
+
 ## Part 1 - Creating a Survey
 
 Go [here](https://suave-ucsd.github.io/limesurvey_documentation/step_1_creating_survey.html)

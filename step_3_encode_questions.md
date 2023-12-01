@@ -6,8 +6,7 @@ nav_order: 3
 
 ## {{page.title}}
 
-### ***Important Tools to Help with this Section***
-&nbsp;
+### ***Important Tools to Help with this Section***<br>
 
 Link to example mappings for each question type: [here](https://docs.google.com/spreadsheets/d/1V9Iqxa8krpqeifqdwl55vhqOt-ucSaqk0pExdB2CJzI/edit#gid=0)
 

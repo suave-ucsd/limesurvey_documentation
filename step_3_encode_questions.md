@@ -6,7 +6,7 @@ nav_order: 3
 
 ## {{page.title}}
 
-## Link to exmaple mappings for each question type: [here]()
+## Link to example mappings for each question type: [here]()
 
 ### What you'll need:
 

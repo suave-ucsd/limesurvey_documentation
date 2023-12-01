@@ -16,7 +16,7 @@ Note that there must be at least one question group, since each question has to 
 
 - This is what the question group page looks like:
 
-![Image of Question Group page](/assets/Untitled%209.png)
+![Image of Question Group page](assets/Untitled%209.png)
 
 - Your question group does not require any of the fields to be filled in, however we recommend you at least add a title, which will help identify the question group and will show up on the top of page when the survey questions are presented.
 - You can read more about question groups in the official [LimeSurvey Documentation here.](https://manual.limesurvey.org/Question_groups_-_introduction)

@@ -6,17 +6,16 @@ nav_order: 5
 
 ## Part 5 (Optional but Recommended) - Creating SuAVE Visualization
 
-Navigate to [https://suave-net.sdsc.edu](https://suave-net.sdsc.edu). Login if you have an account; if not, create an account.
-
-Ensure that you're in the "Gallery Section" on the SuAVE Homepage. This can be accessed from the left navigation bar of the website.
-
-![Image of SuAVE Gallery page](assets/Untitled%2027.png)
-
 ### What you'll need:
 
 - [ ] The link to the Google Spreadsheet created in the previous section
 - [ ] A SuAVE Account
 
+Navigate to [https://suave-net.sdsc.edu](https://suave-net.sdsc.edu). Login if you have an account; if not, create an account.
+
+Ensure that you're in the "Gallery Section" on the SuAVE Homepage. This can be accessed from the left navigation bar of the website.
+
+![Image of SuAVE Gallery page](assets/Untitled%2027.png)
 
 
 - Click the "New Survey" button on the top left of the gallery menu.

@@ -200,7 +200,7 @@ limesurvey-flask@fusion-r2r.iam.gserviceaccount.com
 
           ![Image of spreadsheet setup for first and last name combination template example](/assets/Untitled%2024.png)
 
-          ![Image of resulting SuAVE field of combined first and last name LimeSurvey response entries](/assets\Untitled%2025.png)
+          ![Image of resulting SuAVE field of combined first and last name LimeSurvey response entries](/assets/Untitled%2025.png)
 
   ### **BasedOn**
 

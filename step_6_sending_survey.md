@@ -44,7 +44,7 @@ For surveys with multiple responses per participant, although the link remains t
 ![img](assets/SignUpPage.png)
 User would be directed to this page, asking for an access code that would connect them to their survey response. Alternatively, the user can also enter their email address and their access code will be sent to them. If the user has not created a response on your survey yet, they can sign up at the bottom of the page and they will be directed to the regular signup form mentioned above.
 
-# Creating a custom signup form
+### Creating a custom signup form
 1. Prepare a json file called 638892.config. The root name should be the Survey-ID in Limesurvey. The file should have the following content:
 
 ```

@@ -15,7 +15,7 @@ When sending out your survey to get responses, you have two options: sending out
 3. Download this file as a csv
 4. Navigate the the Participants tab in Limesurvey
 5. If prompted to, make the survey closed access and initialize a participants table (if these options do not pop up, do not worry)
-6. Under the Participants tab, navigate to “Create”, and, under this tab, click on "Import participants from CSV file". Upload your participants csv file her and "Upload" it. Follow the images below if you are confused:
+6. Under the Participants tab, navigate to “Create”, and, under this tab, click on "Import participants from CSV file". Upload your participants csv file her and "Upload" it. Follow the image below if you are confused:
 ![img](assets/csv-file-limesurvey.png)
 8. Create tokens for each participant. Click “Generate Tokens” and hit “Create”
 ![img](assets/generate-tokens-limesurvey.png)

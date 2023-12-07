@@ -10,7 +10,7 @@ When sending out your survey to get responses, you have two options: sending out
 
 ### Option A - Defined Participants Table
 
-1. Get your participants table. The table needs the following three columns at the minimum: first name, last name, and email. It should look something like this
+1. Get your participants table. The table needs the following three columns at the minimum: firstname, lastname, and email. It should look something like this
 ![img](assets/example-participants.png)
 3. Export this file as a csv
 4. Navigate the the Participants tab in Limesurvey

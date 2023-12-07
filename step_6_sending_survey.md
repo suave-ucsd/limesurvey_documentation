@@ -10,16 +10,17 @@ When sending out your survey to get responses, you have two options: sending out
 
 ### Option A - Defined Participants Table
 
-1. Get your participants table. The table needs the following three columns at the minimum: first name, last name, and email. 
-2. Export this file as a csv
-3. Navigate the the Participants tab in Limesurvey
-4. If prompted to, make the survey closed access and initialize a participants table (if these options do not pop up, do not worry)
-5. Under the Participants tab, navigate to “Create”, and, under this tab, click on "Import participants from CSV file". Upload your participants csv file her and "Upload" it
-6. Create tokens for each participant. Click “Generate Tokens” and hit “Create”
-7. Now, edit your survey email templates. Navigate to “Email templates”
-8. Edit these templates as you see fit. Make sure to edit both the “Invitation” and “Reminder” email templates
-9. Once you are ready, go back to the “Participants” tab. Select all participants you want to send the survey to and click on “With Selected”. Click “Send Invitation”
-10. Some people may not receive the email or may not acknowledge the email and fill out the survey. If this is the case, send a reminder email to individuals that do not fill out the survey at your discretion.
+1. Get your participants table. The table needs the following three columns at the minimum: first name, last name, and email. It should look something like this
+![img](assets/example-participants.png)
+3. Export this file as a csv
+4. Navigate the the Participants tab in Limesurvey
+5. If prompted to, make the survey closed access and initialize a participants table (if these options do not pop up, do not worry)
+6. Under the Participants tab, navigate to “Create”, and, under this tab, click on "Import participants from CSV file". Upload your participants csv file her and "Upload" it
+7. Create tokens for each participant. Click “Generate Tokens” and hit “Create”
+8. Now, edit your survey email templates. Navigate to “Email templates”
+9. Edit these templates as you see fit. Make sure to edit both the “Invitation” and “Reminder” email templates
+10. Once you are ready, go back to the “Participants” tab. Select all participants you want to send the survey to and click on “With Selected”. Click “Send Invitation”
+11. Some people may not receive the email or may not acknowledge the email and fill out the survey. If this is the case, send a reminder email to individuals that do not fill out the survey at your discretion.
 
 ### Option B - Creating a Registration Form
 

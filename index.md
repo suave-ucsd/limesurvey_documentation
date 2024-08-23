@@ -9,7 +9,7 @@ nav_order: 1
 
 Link to Limesurvey: [https://limesurvey.sdsc.edu/limesurvey/index.php/admin/authentication/sa/login](https://limesurvey.sdsc.edu/limesurvey/index.php/admin/authentication/sa/login)
 
-<br><br>
+<br>
 
 **SuAVE (Survey Analysis via Visual Exploration) is a data visualization software that can read in Limesurvey data and visualize it.**
 

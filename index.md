@@ -16,7 +16,7 @@ Link to Limesurvey: [https://limesurvey.sdsc.edu/limesurvey/index.php/admin/auth
 Link to SuAVE: [https://suave-net.sdsc.edu/home](https://suave-net.sdsc.edu/home)
 
 <br><br>
-<br><br>
+<br>
 
 The following link is for the instructions on how to use Limesurvey-SuAVE.
 

@@ -15,10 +15,10 @@ Link to Limesurvey: [https://limesurvey.sdsc.edu/limesurvey/index.php/admin/auth
 
 Link to SuAVE: [https://suave-net.sdsc.edu/home](https://suave-net.sdsc.edu/home)
 
-The following link is for the instructions on how to use Limesurvey-SuAVE.
+<br><br>
+<br><br>
 
-<br><br>
-<br><br>
+The following link is for the instructions on how to use Limesurvey-SuAVE.
 
 <div class="button-container" style="display: flex; align-items: center;margin-top: 20px;">
    <div class="arrow-container">
